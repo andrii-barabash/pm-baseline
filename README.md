@@ -1,5 +1,6 @@
 # PM Baseline
-Basic resources every product manager should start with
+Basic resources every product manager should start with.
+
 ##Books
 * [Inspired - How to Create Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) - Marty Cagan
 * [The 4 steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank-ebook/dp/B00FLZKNUQ/ref=sr_1_1?keywords=The+4+steps+to+the+Epiphany+-+Steve+Blank&qid=1554672593&s=digital-text&sr=1-1-catcorr) - Steve Blank
