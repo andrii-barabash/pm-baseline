@@ -17,5 +17,6 @@ Basic resources every product manager should start with.
 * Getting Real - The smarter, faster, easier way to build a successful web application
 ### Leadership
 * Creativity, Inc. - Ed Catmull
-
+### Self Management
+* [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=dp_ob_title_bk) -  David Allen
 
