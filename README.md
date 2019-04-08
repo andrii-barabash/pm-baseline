@@ -1,5 +1,5 @@
 # PM Baseline
-Basic resources every product manager should start with.
+Basic resources every PM should start with.
 
 ## Books
 ### Design
