@@ -4,11 +4,14 @@ Basic resources every PM should start with.
 ## Books
 ### Design (UX/UI)
 * [Inspired - How to Create Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) - Marty Cagan
-* The Design of Everyday Things - Donald Norman
-* Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition - Steve Krug
+* [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_1?keywords=The+Design+of+Everyday+Things+-+Donald+Norman&qid=1554688912&s=books&sr=1-1-catcorr) - Donald Norman
+* [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG/ref=sr_1_1?keywords=Don%27t+Make+Me+Think&qid=1554688939&s=books&sr=1-1) - Steve Krug
 * About Face: The Essentials of Interaction Design, 4th Edition - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
 * [The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140) - Alan Cooper
-* The Elements of User Experience: User-Centered Design for the Web and Beyond, 2nd Edition - Jesse James Garrett
+* [The Elements of User Experience: User-Centered Design for the Web and Beyond, 2nd Edition](https://www.amazon.com/Elements-User-Experience-User-Centered-Design-ebook/dp/B004JLMDOC/ref=sr_1_1?keywords=The+Elements+of+User+Experience&qid=1554688964&s=books&sr=1-1) - Jesse James Garrett
+* [Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines 2nd Edition](https://www.amazon.com/Designing-Mind-Understanding-Interface-Guidelines-ebook-dp-B00HLLN0PI/dp/B00HLLN0PI/ref=mt_kindle?_encoding=UTF8&me=&qid=1554688998) - Jeff Johnson  
+* [100 Things Every Designer Needs to Know About People (Voices That Matter) 1st Edition](https://www.amazon.com/Things-Designer-People-Voices-Matter-dp-0321767535/dp/0321767535/ref=mt_paperback?_encoding=UTF8&me=&qid=) - Susan Weinschenk
+* [100 MORE Things Every Designer Needs to Know About People (Voices That Matter) 1st Edition](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0134196031/ref=pd_sim_0_3/140-1646799-6227112?_encoding=UTF8&pd_rd_i=0134196031&pd_rd_r=aa69433c-59a2-11e9-9502-091092cc734e&pd_rd_w=0Lezj&pd_rd_wg=i7u4I&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=S3WFRG4J64WRH2TFA2MK&psc=1&refRID=S3WFRG4J64WRH2TFA2MK) - Susan Weinschenk
 ### Startups
 * [The 4 steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank-ebook/dp/B00FLZKNUQ/ref=sr_1_1?keywords=The+4+steps+to+the+Epiphany+-+Steve+Blank&qid=1554672593&s=digital-text&sr=1-1-catcorr) - Steve Blank
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/ref=sr_1_fkmr0_1?keywords=Business+Model+Generation%3A+A+Handbook+for+Visionaries%2C+Game+Changers%2C+and+Challengers+-+A+handbook+for+designing+tomorrow%E2%80%99s+enterprises&qid=1554672626&s=digital-text&sr=1-1-fkmr0) - Alexander Osterwalder, Yves Pigneur
