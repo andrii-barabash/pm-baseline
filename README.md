@@ -26,4 +26,4 @@ Basic resources every PM should start with.
 * [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_1?keywords=Creativity%2C+Inc.+-+Ed+Catmull&qid=1554688780&s=books&sr=1-1) - Ed Catmull
 ### Self Management
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=dp_ob_title_bk) -  David Allen
-
+* [The Diamond Cutter: The Buddha on Managing Your Business and Your Life](https://www.amazon.com/Diamond-Cutter-Buddha-Managing-Business-ebook/dp/B002MHOCZ8) - Geshe Michael Roach
