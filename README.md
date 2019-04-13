@@ -27,3 +27,6 @@ Basic resources every PM should start with.
 ### Self Management
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=dp_ob_title_bk) -  David Allen
 * [The Diamond Cutter: The Buddha on Managing Your Business and Your Life](https://www.amazon.com/Diamond-Cutter-Buddha-Managing-Business-ebook/dp/B002MHOCZ8) - Geshe Michael Roach
+### Making Decisions
+* [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1?crid=2TKQMP12JCQJV&keywords=thinking+fast+and+slow+by+daniel+kahneman&qid=1555171558&s=digital-text&sprefix=Thinkng+fast+and+slow%2Cdigital-text%2C181&sr=1-1) - Daniel Kahneman
+* [The Black Swan: The Impact of the Highly Improbable](https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?keywords=black+swan+taleb&qid=1555171681&s=digital-text&sr=1-1) - Nassim Nicholas Taleb
