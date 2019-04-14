@@ -24,7 +24,7 @@ Basic resources every PM should start with.
 * [Getting Real - The smarter, faster, easier way to build a successful web application](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812/ref=sr_1_fkmrnull_1?keywords=Getting+Real+-+The+smarter%2C+faster%2C+easier+way+to+build+a+successful+web+application&qid=1554688811&s=books&sr=1-1-fkmrnull) - Jason Fried, David Heinemeier Hansson, Matthew Linderman
 ### Leadership
 * [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_1?keywords=Creativity%2C+Inc.+-+Ed+Catmull&qid=1554688780&s=books&sr=1-1) - Ed Catmull
-### Self Management
+### Self Development
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=dp_ob_title_bk) -  David Allen
 * [The Diamond Cutter: The Buddha on Managing Your Business and Your Life](https://www.amazon.com/Diamond-Cutter-Buddha-Managing-Business-ebook/dp/B002MHOCZ8) - Geshe Michael Roach
 * [The Personal MBA: Master the Art of Business](https://www.amazon.com/Personal-MBA-Master-Art-Business-ebook/dp/B0046ECJ8M) - Josh Kaufman
