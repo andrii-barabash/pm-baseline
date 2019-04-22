@@ -34,3 +34,5 @@ Basic resources every PM should start with.
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1?crid=2TKQMP12JCQJV&keywords=thinking+fast+and+slow+by+daniel+kahneman&qid=1555171558&s=digital-text&sprefix=Thinkng+fast+and+slow%2Cdigital-text%2C181&sr=1-1) - Daniel Kahneman
 * [The Black Swan: The Impact of the Highly Improbable](https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?keywords=black+swan+taleb&qid=1555171681&s=digital-text&sr=1-1) - Nassim Nicholas Taleb
 
+## Blogs
+* [The Art of Product Management](https://pmblog.quora.com/)
