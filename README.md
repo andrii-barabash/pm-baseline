@@ -39,7 +39,7 @@ Basic resources every PM should start with.
 * [Product Manager HQ](https://www.productmanagerhq.com/)
 * [Tech Product Management](https://danielelizalde.com/iot-blog/)
 * [Mind the Product]()
-* [Product School Blog] (https://www.mindtheproduct.com/)
+* [Product School Blog](https://www.mindtheproduct.com/)
 * [Product Talk](https://www.producttalk.org/)
 * [The Product Guy](https://tpgblog.com/)
 * [This explains everything / Product psychology](http://www.productpsychology.com/)
