@@ -30,8 +30,10 @@ Basic resources every PM should start with.
 * [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=dp_ob_title_bk) -  David Allen
 * [The Diamond Cutter: The Buddha on Managing Your Business and Your Life](https://www.amazon.com/Diamond-Cutter-Buddha-Managing-Business-ebook/dp/B002MHOCZ8) - Geshe Michael Roach
 * [The Personal MBA: Master the Art of Business](https://www.amazon.com/Personal-MBA-Master-Art-Business-ebook/dp/B0046ECJ8M) - Josh Kaufman
-### Making Decisions
+### Psychology & Making Decisions
+* [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Business-Essentials-ebook-dp-B002BD2UUC/dp/B002BD2UUC/ref=mt_kindle?_encoding=UTF8&me=&qid=) – Robert B. Cialdini
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1?crid=2TKQMP12JCQJV&keywords=thinking+fast+and+slow+by+daniel+kahneman&qid=1555171558&s=digital-text&sprefix=Thinkng+fast+and+slow%2Cdigital-text%2C181&sr=1-1) - Daniel Kahneman
+* [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness-ebook/dp/B00A5DCALY/ref=sr_1_1?keywords=nudge&qid=1563297292&s=digital-text&sr=1-1) – Richard H. Thaler, Cass R. Sunstein
 * [The Black Swan: The Impact of the Highly Improbable](https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4/ref=sr_1_1?keywords=black+swan+taleb&qid=1555171681&s=digital-text&sr=1-1) - Nassim Nicholas Taleb
 
 ## Blogs
